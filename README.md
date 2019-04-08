@@ -1,2 +1,5 @@
-# Pandas_-Python_for_Data_Analysis-
+# Pandas - Python for Data Analysis
+### Contact mert1ozturk@gmail.com
+
+
 A refresher jupyter notebook for the Pandas package.
